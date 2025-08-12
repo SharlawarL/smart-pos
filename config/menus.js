@@ -989,17 +989,17 @@ export const menusConfig = {
         child: [
           {
             title: "Analytics",
-            href: "/dashboard",
+            href: "//dashboard",
             icon: Graph,
-          },
+          }, 
           {
             title: "Ecommerce",
-            href: "/ecommerce",
+            href: "https://smartpos.businesspos.online/en//ecommerce",
             icon: Cart,
           },
           {
             title: "Menu Engineering ",
-            href: "/project",
+            href: "https://smartpos.businesspos.online/en//project",
             icon: ClipBoard,
           },
         ],
